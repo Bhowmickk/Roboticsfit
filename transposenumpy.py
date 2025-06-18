@@ -1,3 +1,4 @@
+#Taking the transpose of a matrix using numpy
 import numpy as np
 order=input("Enter the order of the matrix.\n")
 r,c=map(int,order.lower().split('x'))
